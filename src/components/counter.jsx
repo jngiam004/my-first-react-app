@@ -29,10 +29,12 @@ class Counter extends Component {
   */
 
   // Defining css styling properties
+  /*
   styles = {
     fontSize: 10,
     fontWeight: "bold",
   };
+  */
 
   // Conditional rendering
   /*
